@@ -7,5 +7,6 @@ public class NewBehaviourScript : MonoBehaviour {
     float b = 2.0;
     double c = 1.0;
     bool f = false
+    // Good Night
 	}
 }
